@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Archivo+Black|Montserrat');
+.heading {
+  font-size: 5em;
+}
+.bio {
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+}
+.email {
+  text-align: right;
+}
+h1 {
+  font-family: 'Archivo Black', sans-serif;
+  text-align: center;
+}
+h2 {
+    font-family: 'Archivo Black', sans-serif;
+    text-align: center;
+}
+h3 {
+    font-family: 'Archivo Black', sans-serif;
+    text-align: left;
+    padding-top: 20px;
+}
+.row {
+  padding: 40px;
+  text-align: center;
+}
+p {
+   font-family: 'Montserrat', sans-serif;
+    text-align: left;
+}
+#bold {
+  font-weight:bold;
+}
